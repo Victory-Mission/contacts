@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Bobby Mitchell
+N:Mitchell;Bobby;;;
+ORG:Victory Mission + Ministry
+TITLE:Case Manager/Shelter Chaplain
+TEL;TYPE=WORK,VOICE:+14178642242
+EMAIL;TYPE=INTERNET:bobby@victorymission.com
+ADR;TYPE=WORK:;;1610 North Broadway;Springfield;MO;65803;USA
+URL:https://victorymission.com
+END:VCARD

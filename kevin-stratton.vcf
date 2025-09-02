@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Kevin Stratton
+N:Stratton;Kevin;;;
+ORG:Victory Mission + Ministry
+TITLE:Director of Counseling
+TEL;TYPE=WORK,VOICE:+14178642228
+EMAIL;TYPE=INTERNET:kstratton@victorymission.com
+ADR;TYPE=WORK:;;1610 North Broadway;Springfield;MO;65803;USA
+URL:https://victorymission.com
+END:VCARD

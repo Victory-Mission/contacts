@@ -1,11 +1,11 @@
 BEGIN:VCARD
 VERSION:3.0
-FN:Jason Hynson
-N:Hynson;Jason;;;
+FN:David Huett
+N:Huett;David;;;
 ORG:Victory Mission + Ministry
-TITLE:Executive Director
-TEL;TYPE=WORK,VOICE:+14178642216
-EMAIL;TYPE=INTERNET:jhynson@victorymission.com
+TITLE:Outreach Chaplain
+TEL;TYPE=WORK,VOICE:+14178642210
+EMAIL;TYPE=INTERNET:dhuett@victorymission.com
 ADR;TYPE=WORK:;;1715 N Boonville Ave.;Springfield;MO;65803;USA
 URL:https://victorymission.com
 END:VCARD
